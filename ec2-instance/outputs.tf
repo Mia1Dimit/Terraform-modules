@@ -1,0 +1,4 @@
+output "instance_id" { value = aws_instance.this.id }
+output "instance_arn" { value = aws_instance.this.arn }
+output "public_ip" { value = aws_instance.this.public_ip }
+output "ebs_volume_id" { value = aws_ebs_volume.this.id }
