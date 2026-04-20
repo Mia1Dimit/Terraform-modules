@@ -1,0 +1,428 @@
+{
+  "profile": {
+    "first_name": "Dimitris",
+    "last_name": "Miaoulis",
+    "headline": "Platform Engineer @ Terna SpA | AWS \u00b7 IaC \u00b7 CI/CD | Sports Tech Enthusiast",
+    "summary": "Platform Engineer | Cloud, DevOps, Infrastructure \ud83d\ude80 Into Sportstech or fast-moving products? Let\u2019s connect.Enjoy turning complex cloud ideas into MVPs, and then products that teams can actually ship. At Terna, I support multi-cloud platform strategy and technology adoption for hybrid infrastructure. At EUIPO, I delivered AWS serverless systems, Terraform automation, and CI/CD pipelines focused on scalability and cost efficiency. Motivated by startup and Sportstech environments where the product and speed matters.I\u2019m open to remote-friendly roles and distributed teams across cloud platform engineering, Infrastructure, DevOps, IaC, and AI-enabled products.",
+    "industry": "Technology, Information and Internet",
+    "location": "Greater Rome Metropolitan Area"
+  },
+  "statistics": {
+    "total_companies_followed": 1192,
+    "total_connections": 608,
+    "total_messages": 904,
+    "total_job_applications": 0,
+    "total_skills": 64,
+    "top_skills": [
+      "Policy as Code",
+      "Multi-Cluster & Fleet Management",
+      "NIS2",
+      "General Data Protection Regulation (GDPR)",
+      "Security Information and Event Management (SIEM)",
+      "Cybersecurity",
+      "Solution Architecture",
+      "Artificial Intelligence (AI)",
+      "Cloud Infrastructure",
+      "Cloud Services"
+    ]
+  },
+  "companies": [
+    {
+      "name": "Terna SpA",
+      "type": "employer",
+      "positions": [
+        {
+          "title": "Platform Engineer",
+          "location": "Greater Rome Metropolitan Area",
+          "started": "Oct 2025",
+          "finished": ""
+        }
+      ],
+      "follow_count": 1
+    },
+    {
+      "name": "EUIPO - European Union  Intellectual Property Office",
+      "type": "employer",
+      "positions": [
+        {
+          "title": "Junior Cloud Engineer",
+          "location": "Alicante, Valencian Community, Spain",
+          "started": "Sep 2024",
+          "finished": "Sep 2025"
+        }
+      ],
+      "follow_count": 1
+    },
+    {
+      "name": "Sports Data Campus",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 2
+    },
+    {
+      "name": "Octopus Deploy",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "Model Health",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "Apprendo S.r.l.",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "StartupMap",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "Catch",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "Profluence Sports",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "Turing",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "Crossing Hurdles",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "Bit Cloud",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "vCluster",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "Einride",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "OpsWorks Co.",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "Mobcoder",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "Eikon Solutions",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "Elastisys",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "SparkFabrik",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "Cloud-Native Days Italy",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "Grasp",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "Futbolea",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "CoachMate",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "CarboPlanner",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "athme",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "IQONIQ",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "STELLIS",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "Kima",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "eSHARE",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "Value 4 Sports",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "Versai Labs",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "Polarsteps",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "Tether.io",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "GameChanger",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "TeamSnap",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "SHELLONBACK SRL",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "Client Server",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "Tribe28",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "Rextart",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "Base Operations",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "Berget AI",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "evroc",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "Formalize",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "Cast AI",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "Kubermatic",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "Apheris",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "4impact capital",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "OneTeam Partners",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "Personio",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    },
+    {
+      "name": "Qonto",
+      "type": "followed",
+      "positions": [],
+      "follow_count": 1
+    }
+  ],
+  "messages_summary": [
+    {
+      "person": "Dimitris Miaoulis",
+      "message_count": 450
+    },
+    {
+      "person": "Sotiris Rekoumis",
+      "message_count": 124
+    },
+    {
+      "person": "LinkedIn Member",
+      "message_count": 33
+    },
+    {
+      "person": "Jordi Ferr\u00e9 Albiol",
+      "message_count": 27
+    },
+    {
+      "person": "Letizia Veglioni",
+      "message_count": 23
+    },
+    {
+      "person": "Clara Anna Torre",
+      "message_count": 22
+    },
+    {
+      "person": "Panagiotis Spagopoulos",
+      "message_count": 17
+    },
+    {
+      "person": "John Stivaros",
+      "message_count": 14
+    },
+    {
+      "person": "Giada Garimoldi",
+      "message_count": 13
+    },
+    {
+      "person": "Konstantinos Syntzakis",
+      "message_count": 13
+    },
+    {
+      "person": "Ashley Morton",
+      "message_count": 12
+    },
+    {
+      "person": "Paolo De Carlo",
+      "message_count": 8
+    },
+    {
+      "person": "Andreas Tantoulas",
+      "message_count": 8
+    },
+    {
+      "person": "Adi Lu\u010di\u0107",
+      "message_count": 7
+    },
+    {
+      "person": "Karolina Semiuk",
+      "message_count": 5
+    },
+    {
+      "person": "Kostas Chatzichristos",
+      "message_count": 5
+    },
+    {
+      "person": "Aditya Siddannavar",
+      "message_count": 4
+    },
+    {
+      "person": "Giuseppe Di Pede",
+      "message_count": 4
+    },
+    {
+      "person": "Yvon Fourcade",
+      "message_count": 4
+    },
+    {
+      "person": "Carlotta Momigliano",
+      "message_count": 4
+    }
+  ],
+  "timestamp": "2026-04-20T18:39:31.774747"
+}
