@@ -37,7 +37,7 @@ variable "applicationname" {
 }
 
 variable "name" {
-  description = "Name of the CloudFront distribution"
+  description = "Name of the Backup Vault"
   type        = string
 }
 
