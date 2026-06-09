@@ -1,4 +1,4 @@
-resource "aws_apigatewayv2_authorizer" "this" {
+resource "aws_apigatewayv2_authorizer" "apigatewayv2_authorizer" {
   api_id           = var.api_id
   authorizer_type  = var.authorizer_type
   name             = var.name
