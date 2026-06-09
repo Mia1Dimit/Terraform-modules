@@ -1,4 +1,4 @@
-resource "aws_instance" "this" {
+resource "aws_instance" "ec2_instance" {
   ami                         = var.ami
   instance_type               = var.instance_type
   subnet_id                   = var.subnet_id
@@ -10,16 +10,16 @@ resource "aws_instance" "this" {
   tags = local.merged_tags
 }
 
-resource "aws_ebs_volume" "this" {
-  availability_zone = aws_instance.this.availability_zone
+resource "aws_ebs_volume" "ebs_volume" {
+  availability_zone = aws_instance.ec2_instance.availability_zone
   size              = var.ebs_volume_size
   type              = "gp3"
 
   tags = merge(local.merged_tags, { Name = "${var.instance_name}-ebs" })
 }
 
-resource "aws_volume_attachment" "this" {
+resource "aws_volume_attachment" "volume_attachment" {
   device_name = "/dev/xvdf"
-  volume_id   = aws_ebs_volume.this.id
-  instance_id = aws_instance.this.id
+  volume_id   = aws_ebs_volume.ebs_volume.id
+  instance_id = aws_instance.ec2_instance.id
 }
