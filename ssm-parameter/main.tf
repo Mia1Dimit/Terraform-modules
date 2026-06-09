@@ -1,4 +1,4 @@
-resource "aws_ssm_parameter" "this" {
+resource "aws_ssm_parameter" "ssm_parameter" {
   name        = var.name
   description = var.description
   type        = var.type
