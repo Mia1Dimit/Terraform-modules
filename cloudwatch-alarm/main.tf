@@ -1,4 +1,4 @@
-resource "aws_cloudwatch_metric_alarm" "this" {
+resource "aws_cloudwatch_metric_alarm" "cloudwatch_metric_alarm" {
   alarm_name          = var.alarm_name
   alarm_description   = var.alarm_description
   metric_name         = var.metric_name
