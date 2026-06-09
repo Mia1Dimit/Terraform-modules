@@ -1,4 +1,4 @@
-resource "aws_scheduler_schedule" "this" {
+resource "aws_scheduler_schedule" "scheduler_schedule" {
   name                = var.name
   schedule_expression = var.schedule_expression
   state               = var.state
