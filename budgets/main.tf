@@ -1,4 +1,4 @@
-resource "aws_budgets_budget" "this" {
+resource "aws_budgets_budget" "budget" {
   name         = var.budget_name
   budget_type  = "COST"
   limit_amount = var.limit_amount
