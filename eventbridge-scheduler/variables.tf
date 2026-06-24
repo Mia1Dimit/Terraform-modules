@@ -46,18 +46,6 @@ variable "specifictags" {
   default = {}
 }
 
-variable "environment" {
-  type = string
-}
-
-variable "applicationid" {
-  type = string
-}
-
-variable "applicationname" {
-  type = string
-}
-
 locals {
   common_tags = {
     Application_ID   = var.applicationid
