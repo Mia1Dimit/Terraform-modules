@@ -1,8 +1,7 @@
-resource "aws_iam_policy" "iam_policy" {
-  name        = var.name
-  path        = var.path
-  description = var.description
-  policy      = var.policy
-
-  tags = local.merged_tags
+resource "aws_iam_role_policy" "iam_role_policy" {
+  name          = var.name
+  name_prefix   = var.name_prefix
+  role          = var.role
+  policy        = var.policy
 }
+

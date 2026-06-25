@@ -1,14 +1,12 @@
-output "iam_policy_id" {
-  description = "ID of the IAM policy"
-  value       = aws_iam_policy.iam_policy.id
+output "iam_role_policy_id" {
+  description = "The ID of the created iam role policy"
+  value       = aws_iam_role_policy.iam_role_policy.id
 }
-
-output "iam_policy_arn" {
-  description = "ARN of the IAM policy"
-  value       = aws_iam_policy.iam_policy.arn
+output "role" {
+  description = "The IAM role name this policy is attached to."
+  value       = var.role
 }
-
-output "iam_policy_name" {
-  description = "Name of the IAM policy"
-  value       = aws_iam_policy.iam_policy.name
+output "policy_name" {
+  description = "The name of the inline policy."
+  value       = aws_iam_role_policy.iam_role_policy.name
 }
