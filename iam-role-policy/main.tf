@@ -1,7 +1,4 @@
-resource "aws_iam_role_policy" "iam_role_policy" {
-  name          = var.name
-  name_prefix   = var.name_prefix
-  role          = var.role
-  policy        = var.policy
+resource "aws_iam_role_policy_attachment" "iam_role_policy_attachment" {
+  role       = var.role
+  policy_arn = var.policy_arn
 }
-
