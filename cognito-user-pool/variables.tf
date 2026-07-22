@@ -28,7 +28,13 @@ variable "allowed_oauth_flows" {
 
 variable "allowed_oauth_scopes" {
   type    = list(string)
-  default = ["email", "openid", "profile"]
+  default = ["ALLOW_USER_PASSWORD_AUTH"]
+  description = "List of authentication flows. The available options include ADMIN_NO_SRP_AUTH, CUSTOM_AUTH_FLOW_ONLY, USER_PASSWORD_AUTH, ALLOW_ADMIN_USER_PASSWORD_AUTH, ALLOW_CUSTOM_AUTH, ALLOW_USER_PASSWORD_AUTH, ALLOW_USER_SRP_AUTH, ALLOW_REFRESH_TOKEN_AUTH, and ALLOW_USER_AUTH."
+}
+
+variable "explicit_auth_flows" {
+  type    = list(string)
+  default = ["ALLOW_USER_PASSWORD_AUTH", "ALLOW_REFRESH_TOKEN_AUTH"]
 }
 
 variable "environment" {
